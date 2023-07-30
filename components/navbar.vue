@@ -7,7 +7,7 @@
               class="w-full flex items-center justify-between px-5 pb-5 pt-6 select-none"
             >
               <a href="https://eazzysocial.com/">
-                <img src="" class="h-8 select-none" alt="logo" />
+                <img src="/images/logo.png" class="h-8 select-none" alt="logo" />
                 <p class="text-sm font-semibold text-white text-right -mt-2">classics</p>
               </a>
               <ul
