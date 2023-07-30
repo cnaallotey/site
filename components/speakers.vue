@@ -34,7 +34,7 @@
                     {{ speaker.name }}, {{ speaker.role }}
                   </h3>
                   <div class="flex items-center w-fit mt-3 space-x-2">
-                    <img src="../assets/linkedin.png" class="w-7 h-7" alt="linkedin" />
+                    <img src="/images/linkedin.png" class="w-7 h-7" alt="linkedin" />
                     <a
                       :href="speaker['profile-link']"
                       target="_blank"
