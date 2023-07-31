@@ -97,7 +97,10 @@ const submitForm = async (x) => {
               </div>
             </div>
           </div>
-          <div
+          <div class="w-full col-span-3 lg:col-span-1 order-2 h-full bg-white">
+            <iframe frameborder="0" style="height:100vh;width:99%;border:none;background-color: white;" src='https://forms.zohopublic.com/eazzysocial/form/EazzysocialWebinar/formperma/gDfpBzO_FI1fYIywILXuV4qjstlCXYZsO7mxgQymw0M'></iframe>
+          </div>
+          <!-- <div
             class="w-full h-fit col-span-3 lg:col-span-1 border border-gray-200 order-2 lg:order-2"
           >
             <div class="w-full p-4 bg-blue-900">
@@ -191,7 +194,7 @@ const submitForm = async (x) => {
                 Register
               </button>
             </form>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
